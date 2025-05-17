@@ -14,11 +14,6 @@ This is a FastAPI-powered backend that uses a fine-tuned DistilBERT model to det
 - Docker-free Render deployment ready
 - Lightweight and fast response using sigmoid activations
 
----
-
-
-
----
 
 ## 🚀 Getting Started (Locally)
 
