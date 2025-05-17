@@ -16,25 +16,7 @@ This is a FastAPI-powered backend that uses a fine-tuned DistilBERT model to det
 
 ---
 
-## 📦 Project Structure
 
-```
-
-emotion-api/
-│
-├── app/
-│   ├── main.py                 # FastAPI app
-│   ├── model/
-│   │   ├── classifier.py       # Model class
-│   │   ├── tokenizer.py        # Tokenizer
-│   │   └── emotion_model.pt            # Trained model
-│   |   |__ train.py
-├── requirements.txt
-├── start.sh
-├── render.yaml
-├── README.md
-
-````
 
 ---
 
