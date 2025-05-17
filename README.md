@@ -1,13 +1,3 @@
-Here's a complete `README.md` file for your project with the following:
-
-* 📌 Project Overview
-* 🚀 How to Run Locally
-* 🧠 Model Info
-* 🔌 API Usage
-* 🧪 Example
-* 📜 MIT License
-
----
 
 ### ✅ `README.md`
 
@@ -164,7 +154,4 @@ THE SOFTWARE.
 
 ```
 
----
 
-Let me know when you’re done setting this up — then we’ll move on to the **frontend** (if you need it), or **inference testing**!
-```
