@@ -1,7 +1,4 @@
 
-### ✅ `README.md`
-
-```markdown
 # Emotion Detection API 🎭
 
 This is a FastAPI-powered backend that uses a fine-tuned DistilBERT model to detect emotions from text. It supports multi-label classification with 28 emotion categories, based on the GoEmotions dataset from Google.
@@ -129,6 +126,6 @@ THE SOFTWARE.
 * Google Research for the GoEmotions dataset
 * Render.com for easy deployment
 
-```
+
 
 
